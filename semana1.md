@@ -1,3 +1,6 @@
+# Modelo individual
+# David Santiago Álvarez Ríos 20231020122 
+![Diagrama individual 1](https://github.com/Dover-Cliff/MP_202510_G81_E3_Caminatas_Back/blob/main/diagrama.jpg?raw=true)
 # Diagrama de clases en pareja
 ## Juan Sebastián López B. 20231020102.
 ## David Ricardo Rico Moreno⁩
